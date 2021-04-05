@@ -2,7 +2,6 @@
 #include "kRpm.h"
 #include "offsets.h"
 #pragma warning(disable:4996)
-MoaRpm rpm("Apex Legends", MoaRpm::MOA_MODE::KERNEL);
 static int S_width = 1920, S_height = 1080;
 static DWORD_PTR base = 0;
 float Distance(D3DXVECTOR3 EntityPos, D3DXVECTOR3 PlayerPos);
