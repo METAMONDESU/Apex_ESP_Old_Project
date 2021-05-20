@@ -1,5 +1,4 @@
 #pragma once
-#include "kRpm.h"
 #include "offsets.h"
 #pragma warning(disable:4996)
 static int S_width = 1920, S_height = 1080;
